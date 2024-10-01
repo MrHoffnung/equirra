@@ -1,2 +1,2 @@
-# equirra
-Lightning fast web game engine built with SvelteKit, Zig and Three.js.
+# Equirra
+A lightning fast scratch-like programming language built with Nuxt.js and Zig. _A dream that is yet to be realized, but when remains questionable._
